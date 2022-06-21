@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4}</ProjectGuid>
+    <ProjectGuid>{C202196E-2A9C-4BDF-8EA7-D45712616A93}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Prototyoe</RootNamespace>
     <AssemblyName>Prototyoe</AssemblyName>

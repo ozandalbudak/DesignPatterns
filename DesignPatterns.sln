@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{B56FAA0C-30B8-4371-8575-F39D3CD500CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structual", "Structual", "{1C7077DD-0641-435D-A148-FF683F22798D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{68F39504-AF2F-4461-9988-00F638E6829A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPatterns", "BuilderDesignPatterns\BuilderDesignPatterns.csproj", "{5C7CE978-7BA8-4601-9154-D8BD24AEF111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPatterns", "SingletonDesignPatterns\SingletonDesignPatterns.csproj", "{108B716E-A711-4159-8DD9-87E629C4D58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototyopeDesignPatterns", "Prototyoe\PrototyopeDesignPatterns.csproj", "{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPatterns", "FactoryDesignPatterns\FactoryDesignPatterns.csproj", "{3C968D92-2814-4A06-9657-E543967C810F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstraactFactoryDesignPatterns", "AbstraactFactoryDesignPatterns\AbstraactFactoryDesignPatterns.csproj", "{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7CE978-7BA8-4601-9154-D8BD24AEF111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7CE978-7BA8-4601-9154-D8BD24AEF111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7CE978-7BA8-4601-9154-D8BD24AEF111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7CE978-7BA8-4601-9154-D8BD24AEF111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108B716E-A711-4159-8DD9-87E629C4D58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108B716E-A711-4159-8DD9-87E629C4D58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108B716E-A711-4159-8DD9-87E629C4D58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108B716E-A711-4159-8DD9-87E629C4D58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C968D92-2814-4A06-9657-E543967C810F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C968D92-2814-4A06-9657-E543967C810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C968D92-2814-4A06-9657-E543967C810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C968D92-2814-4A06-9657-E543967C810F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C7CE978-7BA8-4601-9154-D8BD24AEF111} = {B56FAA0C-30B8-4371-8575-F39D3CD500CA}
+		{108B716E-A711-4159-8DD9-87E629C4D58C} = {B56FAA0C-30B8-4371-8575-F39D3CD500CA}
+		{C827C2DD-D73D-4B96-A7D5-9F79B8AA1ED4} = {B56FAA0C-30B8-4371-8575-F39D3CD500CA}
+		{3C968D92-2814-4A06-9657-E543967C810F} = {B56FAA0C-30B8-4371-8575-F39D3CD500CA}
+		{B7A5DA3B-7093-46FE-91BF-B32DC406DE41} = {B56FAA0C-30B8-4371-8575-F39D3CD500CA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA00C46-1B9D-48E4-BD13-B0E0A202F3DE}
+	EndGlobalSection
+EndGlobal

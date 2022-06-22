@@ -10,6 +10,14 @@ namespace FactoryDesignPatterns
     {
         static void Main(string[] args)
         {
+            Creator creator = new Creator();
+            Product product1 = creator.FactoryMethod(Ulkeler.Turkiye);
+            Product product2 = creator.FactoryMethod(Ulkeler.Ispanya);
+            Product product3 = creator.FactoryMethod(Ulkeler.Amerika);
+            product1.Konus();
+            product2.Konus();
+            product3.Konus();
+            Console.ReadKey();
         }
     }
 }

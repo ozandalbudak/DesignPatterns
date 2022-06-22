@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPatterns", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPatterns", "FactoryDesignPatterns\FactoryDesignPatterns.csproj", "{3C968D92-2814-4A06-9657-E543967C810F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstraactFactoryDesignPatterns", "AbstraactFactoryDesignPatterns\AbstraactFactoryDesignPatterns.csproj", "{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDesignPatterns", "AbstraactFactoryDesignPatterns\AbstractFactoryDesignPatterns.csproj", "{B7A5DA3B-7093-46FE-91BF-B32DC406DE41}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPatterns", "PrototypeDesignPatterns\PrototypeDesignPatterns.csproj", "{C202196E-2A9C-4BDF-8EA7-D45712616A93}"
 EndProject

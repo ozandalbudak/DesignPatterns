@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alisveris.cs" />
+    <Compile Include="AlisverisIslemleriBase.cs" />
+    <Compile Include="AlisverisIslemleriOnline.cs" />
+    <Compile Include="AlisverisIslemleriVeritabani.cs" />
+    <Compile Include="IndirimliAlisveris.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adaptee.cs" />
+    <Compile Include="Adapter.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="ITutarHesaplayici.cs" />
+    <Compile Include="malzemeTipineGoreToplamTutariniHesapla.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

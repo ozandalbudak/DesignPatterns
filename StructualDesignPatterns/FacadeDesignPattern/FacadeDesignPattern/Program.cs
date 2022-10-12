@@ -10,6 +10,10 @@ namespace FacadeDesignPattern
     {
         static void Main(string[] args)
         {
+            Facade facade = new Facade();
+            facade.Method1();
+            facade.Method2();
+            Console.ReadKey();
         }
     }
 }

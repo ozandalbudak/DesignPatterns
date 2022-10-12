@@ -10,6 +10,10 @@ namespace StateDesignPattern
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Kitap.pdf dosyası yazdırılacak");
+            Printer printer = new Printer();
+            printer.PrintDocument("Kitap.pdf");
+            Console.Read();
         }
     }
 }

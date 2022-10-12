@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Printer.cs" />
+    <Compile Include="PrinterState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatePrinterBusy.cs" />
+    <Compile Include="StatePrinterLoading.cs" />
+    <Compile Include="StatePrinterReady.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

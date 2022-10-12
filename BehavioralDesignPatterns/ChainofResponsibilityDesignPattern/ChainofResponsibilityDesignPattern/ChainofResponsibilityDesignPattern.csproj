@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Memur.cs" />
+    <Compile Include="Mudur.cs" />
+    <Compile Include="OdemeYetkisi.cs" />
+    <Compile Include="Sef.cs" />
+    <Compile Include="CORHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

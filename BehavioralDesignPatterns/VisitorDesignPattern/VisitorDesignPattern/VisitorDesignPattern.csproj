@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcreteElementA.cs" />
+    <Compile Include="ConcreteElementB.cs" />
+    <Compile Include="ConcreteVisitor1.cs" />
+    <Compile Include="ConcreteVisitor2.cs" />
+    <Compile Include="Element.cs" />
+    <Compile Include="ObjectStructure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Visitor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Devre.cs" />
+    <Compile Include="DevreElemani.cs" />
+    <Compile Include="Eleman.cs" />
+    <Compile Include="ElemanTurleri.cs" />
+    <Compile Include="Konum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

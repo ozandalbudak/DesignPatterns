@@ -1,0 +1,38 @@
+Bu dokümanda tasarım desenleri ve tasarım prensipleri konuları anlatılmaktadır. 
+Gangs of Four (GOF) olarak tanımlanan 23 desen incelenmiştir. Örnek uygulamalarda C# dili kullanılmıştır. 
+Tasarım desenleri konusunda dofactory.com referans noktası olarak kullanılmıştır. 
+Bu özenle hazırlanmış bir eğitim dökümanı değildir. Konularla ilgili Türkçe kaynak az 
+bulunduğundan ve birilerinin işine yarar düşüncesiyle geçmiş dönemlerdeki kişisel 
+notlarımın toparlanmış, doküman haline getirilmiş bir versiyonudur. Bu konulara ilgi duyan 
+kişiler için giriş ve kavramları anlamaları için yeterli bir düzeydedir. İlk etapta işlerini 
+kolaylaştıracaktır. İlerletmek isteyen kişiler daha fazla sayıda kullanım örneklerini inceleyebilir 
+ve pekiştirmek adına kodlarında bu yapıları kullanabilir. 
+
+Creational Patterns 
+1. Abstract Factory 
+2. Builder 
+3. Factory Method 
+4. Prototype 
+5. Singleton
+6. Object Pool
+
+Structural Patterns 
+7. Adapter 
+8. Bridge 
+9. Composite 
+10. Decorator 
+11. Facade 
+12. Flyweight 
+
+Behavioral Patterns 
+13. Chain of Responsibility 
+14. Command 
+15. Interpreter 
+16. Iterator 
+17. Mediator 
+18. Memento 
+19. Observer 
+20. State 
+21. Strategy 
+22. Template Method 
+23. Visitor
